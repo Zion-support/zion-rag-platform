@@ -2,13 +2,13 @@
 
 Managed retrieval-augmented generation infrastructure: ingestion, hybrid vector search, reranking and evaluation.
 
-**Live:** https://rag.ziontechgroup.com
+**Live:** https://ziontechgroup.com/zion-rag-platform/
 
 Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
 ## Companion apps
-- [Zion AI Observability](https://observability.ziontechgroup.com)
-- [Zion AI Governance](https://governance.ziontechgroup.com)
-- [Zion Prompt Forge](https://prompts.ziontechgroup.com)
-- [Zion AI FinOps](https://ai-finops.ziontechgroup.com)
-- [Zion Edge AI](https://edge-ai.ziontechgroup.com)
+- [Zion AI Observability](https://ziontechgroup.com/zion-ai-observability/)
+- [Zion AI Governance](https://ziontechgroup.com/zion-ai-governance/)
+- [Zion Prompt Forge](https://ziontechgroup.com/zion-prompt-forge/)
+- [Zion AI FinOps](https://ziontechgroup.com/zion-ai-finops/)
+- [Zion Edge AI](https://ziontechgroup.com/zion-edge-ai/)
