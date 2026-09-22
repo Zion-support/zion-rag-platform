@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# zion-rag-platform — Zion App Network
 
-**zion-rag-platform** is part of the Zion Tech Group app network (630+ apps).
+Zion RAG Platform — retrieval-augmented generation infrastructure.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+- Live app: https://rag.ziontechgroup.com
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [rag-forge](https://github.com/Zion-support/rag-forge) — production RAG pipelines
-- [zion-rag-foundry](https://github.com/Zion-support/zion-rag-foundry) — build & ship enterprise RAG
-- [zion-vector-db-comparator](https://github.com/Zion-support/zion-vector-db-comparator) — vector DB comparison
-- [zion-embedding-picker](https://github.com/Zion-support/zion-embedding-picker) — embedding model picker
-- [ai-neural-search](https://github.com/Zion-support/ai-neural-search) — neural semantic search
+## Related apps (Data & AI Platform)
+- [rag-forge](https://ziontechgroup.com/rag-forge/) — production RAG pipelines & knowledge copilots
+- [ai-neural-search](https://ai-neural-search.ziontechgroup.com) — semantic vector search
+- [data-quality-sentinel](https://ziontechgroup.com/data-quality-sentinel/) — continuous data quality monitoring
+- [llm-gateway](https://ziontechgroup.com/llm-gateway/) — smart model routing & caching
+- [zion-ai-data-anonymizer](https://ziontechgroup.com/zion-ai-data-anonymizer) — PII detection & redaction
+- [ai-deep-research](https://ai-deep-research.ziontechgroup.com) — deep research engine
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
