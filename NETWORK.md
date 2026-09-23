@@ -1,19 +1,10 @@
-# zion-rag-platform — Zion App Network
+# Zion RAG Platform
 
-Zion RAG Platform — retrieval-augmented generation infrastructure.
+RAG platform for enterprise knowledge.
 
-- Live app: https://rag.ziontechgroup.com
-- Homepage: https://ziontechgroup.com
-- Network hub: https://zion-support.github.io/zion-network/
-- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-rag-foundry](https://github.com/Zion-support/zion-rag-foundry) · [zion-rag-eval-kit](https://github.com/Zion-support/zion-rag-eval-kit) · [rag-forge](https://github.com/Zion-support/rag-forge) · [rag-evaluator](https://github.com/Zion-support/rag-evaluator) · [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base)
 
-## Related apps (Data & AI Platform)
-- [rag-forge](https://ziontechgroup.com/rag-forge/) — production RAG pipelines & knowledge copilots
-- [ai-neural-search](https://ai-neural-search.ziontechgroup.com) — semantic vector search
-- [data-quality-sentinel](https://ziontechgroup.com/data-quality-sentinel/) — continuous data quality monitoring
-- [llm-gateway](https://ziontechgroup.com/llm-gateway/) — smart model routing & caching
-- [zion-ai-data-anonymizer](https://ziontechgroup.com/zion-ai-data-anonymizer) — PII detection & redaction
-- [ai-deep-research](https://ai-deep-research.ziontechgroup.com) — deep research engine
-
----
-Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
